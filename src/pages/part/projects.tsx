@@ -61,8 +61,8 @@ const Project: React.FC = () => {
         <Col md={4} className="project_body">
           <p className="project_body_name">2024.11 ~ 2024.11 (2주)</p>
           <span>
-            <a href="https://github.com/Claire-Nam/my_portfolio">
-              https://github.com/Claire-Nam/my_portfolio
+            <a href="https://github.com/Claire-Nam/my_cv">
+              https://github.com/Claire-Nam/my_cv
             </a>
           </span>
         </Col>
